@@ -1,4 +1,4 @@
-# 🥁 DrumKit is a game you can play to make sounds right from your keyboard. 
+# 🥁 DrumKit the game you play right at your fingertips. 
 
 <p> 
 In this game we incorporate jQuery in order to add eventListeners to our Elements. Each storke briging in a sound of an instrument as well as an animation. Give it a try! 
